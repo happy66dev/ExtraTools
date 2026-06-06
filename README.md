@@ -1,4 +1,4 @@
-# ExtraTools 额外工具
+# ExtraTools 额外工具 [魔改版]
 
 额外工具是一个 Slimefun4 附属插件，提供了一些有用的工具，尽管有些可能没有用，但这些工具一定能提升你的粘液科技游玩体验。
 
@@ -20,3 +20,7 @@
 - 蒸馏器 - 可以产盐与硫酸盐
 - 混凝土搅拌机 - 可以将混凝土粉末变为混凝土，一次性可搅拌8个;
 - 方块过筛机 - 可以将方块变为沙子
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=happy66dev/ExtraTools&type=Date)](https://star-history.com/#happy66dev/ExtraTools&Date)
