@@ -10,6 +10,7 @@ import org.bukkit.entity.Player;
 
 import java.util.function.Consumer;
 
+@SuppressWarnings("deprecation")
 public interface ETInventoryBlock {
 
     int[] getInputSlots();

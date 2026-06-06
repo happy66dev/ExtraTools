@@ -19,6 +19,7 @@ import org.bukkit.inventory.ItemStack;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("deprecation")
 public abstract class ElectricComposter extends AContainer implements RecipeDisplayItem {
 
     private final Tier tier;

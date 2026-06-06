@@ -28,6 +28,7 @@ import org.bukkit.inventory.ItemStack;
 import java.util.List;
 
 
+@SuppressWarnings("deprecation")
 public class CobblestoneGenerator extends SimpleSlimefunItem<BlockTicker> implements ETInventoryBlock,
     EnergyNetComponent {
 

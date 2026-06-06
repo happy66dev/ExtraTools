@@ -1,4 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+﻿<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
@@ -105,20 +105,10 @@
         </dependency>
 
         <dependency>
-            <groupId>io.github.Slimefun</groupId>
+            <groupId>com.github.happy66dev</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-30</version>
+            <version>happy-SNAPSHOT</version>
             <scope>provided</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>io.github.baked-libs</groupId>
-                    <artifactId>dough-api</artifactId>
-                </exclusion>
-                <exclusion>
-                    <groupId>org.bstats</groupId>
-                    <artifactId>bstats-bukkit</artifactId>
-                </exclusion>
-            </exclusions>
         </dependency>
 
         <dependency>

@@ -17,6 +17,7 @@ import org.bukkit.inventory.ItemStack;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("deprecation")
 public class GoldTransmuter extends AContainer implements RecipeDisplayItem {
 
     public GoldTransmuter() {

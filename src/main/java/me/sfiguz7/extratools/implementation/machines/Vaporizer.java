@@ -18,6 +18,7 @@ import org.bukkit.inventory.ItemStack;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("deprecation")
 public class Vaporizer extends AContainer implements RecipeDisplayItem {
 
     public Vaporizer() {
